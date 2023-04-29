@@ -1,16 +1,7 @@
-# mcdonalds_bot_simulator
+# McDonals Bot Simulator Project
+- built with Flutter Web <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/>
+- uses Riverpod as State Management <a href="https://riverpod.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/20613633/228003838-ba206ace-073e-4de0-81bb-f099194bbb69.png" alt="flutter" width="20" height="20"/>
+- Hosted to Github Pages <a href="https://riverpod.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/20613633/228005271-e95744cd-fa3f-4002-ad0a-3076bf011403.png" alt="flutter" width="20" height="20"/> https://brendansiow.github.io/mcdonalds_bot_simulator
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+build with ❤️ by Brendan Siow
